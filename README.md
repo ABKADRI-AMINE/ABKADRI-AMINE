@@ -13,7 +13,7 @@
 - 💻 "I am diligently enhancing my expertise in Spring Boot, Angular, and WebServices."
 - ⚽ "During my leisure time, I indulge in physical activities and dedicate a significant portion to engaging in sports and team-based games."
 - 💬 "Please don't hesitate to reach out to me for consulting, volunteering opportunities, or engaging discussions."
-- 📧 "Feel free to send me an email at amine.abkadri@etu.uae.ac.ma or aminewydad500@gmail.com, and I will make every effort to respond promptly."
+- 📧 "Feel free to send me an email at amine.abkadri@etu.uae.ac.ma or abkadriaminepro@gmail.com, and I will make every effort to respond promptly."
 - 📱  "+212637915184"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
